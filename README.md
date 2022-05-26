@@ -1,11 +1,16 @@
 <img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/githubmaquelef.gif" alt="" height="" width=""/>
 
-![Maquele GitHub Stats](https://github-readme-stats.vercel.app/api?username=maquele&show_icons=true&theme=dracula&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maquele&layout=compact&theme=dracula&count_private=true&hide_border=true)
+##
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/maquele">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maquele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maquele&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+  
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/maquina.gif" alt="" height="" width="250"/>
+  
+  <a href="https://www.linkedin.com/in/maquele/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/linkedin.svg" alt="" height="20" width="30" /></a>
+  <a href="https://www.instagram.com/maqueleantunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/instagram.svg" alt="" height="20" width="30" /></a>
+</div>
