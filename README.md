@@ -1,10 +1,6 @@
-<p align="center">
-<a href="seu link" target="blank"><img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/githubmaquelef.gif" alt="" height="" width=""/></a>
-</p>
+<img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/githubmaquelef.gif" alt="" height="" width=""/>
 
-![Maquele GitHub Stats](https://github-readme-stats.vercel.app/api?username=maquele&show_icons=true&theme=dracula&count_private=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maquele&layout=compact&theme=dracula&count_private=true&hide_border=true)](https://github.com/maquele/github-readme-stats)
+![Maquele GitHub Stats](https://github-readme-stats.vercel.app/api?username=maquele&show_icons=true&theme=dracula&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maquele&layout=compact&theme=dracula&count_private=true&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
