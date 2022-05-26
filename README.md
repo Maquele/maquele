@@ -1,5 +1,5 @@
 <p align="center">
-<a href="seu link" target="blank"><img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/githubmaquele.gif" alt="" height="" width=""/></a>
+<a href="seu link" target="blank"><img align="center" src="https://raw.githubusercontent.com/Maquele/maquele/images/githubmaquelef.gif" alt="" height="" width=""/></a>
 </p>
 
 ![Maquele GitHub Stats](https://github-readme-stats.vercel.app/api?username=maquele&show_icons=true&theme=dracula&count_private=true&hide_border=true)
